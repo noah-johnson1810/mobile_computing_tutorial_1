@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">tutorial1_johnsonnoah</string>
+    <string name="main_button_text">Don\'t Press This Button</string>
+    <string name="welcome_text">Welcome to Noah\'s Program</string>
+    <string name="grumpy_button_text">I told you not to press me!</string>
+</resources>
